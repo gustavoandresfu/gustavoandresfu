@@ -8,10 +8,10 @@ My experience combines software engineering, data integration, and an understand
 
 ### Areas of Focus
 
-- **Systems Integration** — Connecting applications, APIs, and data sources.
-- **Backend Development** — Business logic, services, and data persistence.
-- **Software Modernization** — Understanding and evolving existing systems.
-- **Software Engineering Research** — Static code analysis and functional knowledge recovery from legacy software.
+- **Systems Integration** - Connecting applications, APIs, and data sources.
+- **Backend Development** - Business logic, services, and data persistence.
+- **Software Modernization** - Understanding and evolving existing systems.
+- **Software Engineering Research** - Static code analysis and functional knowledge recovery from legacy software.
 
 ### Selected Projects
 
@@ -20,7 +20,7 @@ Undergraduate capstone project: a desktop application for music learning integra
 
 [View source code](https://github.com/gustavoandresfu/AprenderMusicaRA)
 
-**SIR-FE — Functional Analysis of Legacy Code**  
+**SIR-FE - Functional Analysis of Legacy Code**  
 Research prototype exploring static code analysis and intermediate representations to derive candidate functional specifications from source code.
 
 [View repository](https://github.com/gustavoandresfu/SIRFE)
