@@ -20,9 +20,8 @@ Undergraduate capstone project: a desktop application for music learning integra
 
 [View source code](https://github.com/gustavoandresfu/AprenderMusicaRA)
 
-**SciMapper - AI-powered scientific cartography & topic discovery for automated Systematic Literature Reviews (PRISMA 2020)**  
-An end-to-end, domain-agnostic framework designed to conduct reproducible Systematic Literature Reviews (SLR) and Systematic Mapping Studies (SMS).
-It automates academic corpus harvesting, deduplication, dense semantic embedding, unsupervised clustering, taxonomic discovery, interactive 2D cartography, and manuscript drafting—while keeping researchers firmly in the loop.
+**SciMapper - AI-powered scientific cartography & topic discovery**  
+Is a domain-agnostic framework for reproducible, PRISMA 2020–aligned Systematic Literature Reviews (SLRs) and Systematic Mapping Studies (SMSs). It streamlines the research workflow—from scholarly literature collection and deduplication to semantic embedding, unsupervised clustering, taxonomy discovery, interactive 2D mapping, and manuscript drafting—while keeping researchers in control. 
 
 [View source code](https://github.com/gustavoandresfu/SciMapper)
 
