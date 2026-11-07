@@ -24,6 +24,8 @@ Undergraduate capstone project: a desktop application for music learning integra
 An end-to-end, domain-agnostic framework designed to conduct reproducible Systematic Literature Reviews (SLR) and Systematic Mapping Studies (SMS).
 It automates academic corpus harvesting, deduplication, dense semantic embedding, unsupervised clustering, taxonomic discovery, interactive 2D cartography, and manuscript drafting—while keeping researchers firmly in the loop.
 
+[View source code](https://github.com/gustavoandresfu/SciMapper)
+
 **SIR-FE - Functional Analysis of Legacy Code**  
 Research prototype exploring static code analysis and intermediate representations to derive candidate functional specifications from source code.
 
